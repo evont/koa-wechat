@@ -1,0 +1,29 @@
+{
+  "name": "koa-wechat",
+  "version": "1.0.0",
+  "description": "wechat util base in koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evont/koa-wechat.git"
+  },
+  "author": "evont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evont/koa-wechat/issues"
+  },
+  "homepage": "https://github.com/evont/koa-wechat#readme",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-router": "^7.4.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
